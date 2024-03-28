@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to Rihanna</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tribute to Rihanna</h1>
+    </header>
+    <main>
+        <section id="tribute-info">
+            <h2>About Rihanna</h2>
+            <img src="https://www.hollywoodreporter.com/wp-content/uploads/2014/09/rihanna_horizontal_a_l.jpg?w=3000" alt="">
+            <p>Rihanna, born Robyn Rihanna Fenty on February 20, 1988, is a Barbadian singer, actress, and businesswoman.</p>
+            <p>She gained widespread recognition for her music in the mid-2000s with hits like "Pon de Replay," "Umbrella," and "Disturbia."</p>
+            <p>Rihanna has won numerous awards throughout her career, including Grammy Awards, MTV Video Music Awards, and Billboard Music Awards.</p>
+            <p>Besides her music career, Rihanna has also ventured into acting and entrepreneurship, launching successful businesses like Fenty Beauty and Savage X Fenty.</p>
+             <h3> Rihanna Personal life</h3>
+             <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy8NGw7AKpRle1QApc89rPJEzP50-XjlHDyzz_GezAbw&s" alt="">
+             <p> Rihanna has two sons ,the first named RZA Athelston Mayers and the second, named Riot Rose Mayers, who arrived on 3rd August 2023.
+              baby RZA is now just over a year old and celebrated his first birthday in May. Rihanna's boys are 15 months apart, with Rihanna announcing her 
+              second pregnancy at the 2023 Super Bowl just nine months after welcoming her first baby.</p>
+
+               <p>Rihanna gave birth to her first baby boy,Rza, on May 13, 2022.
+                 She first revealed her pregnancy in an iconic photoshoot in January of the same year, as she and A$AP strolled through New York, when she was around the 4-5 month mark.
+                 with her partner Asap Rocky</p>
+              <img src="https://hips.hearstapps.com/hmg-prod/images/rihanna-asap-rocky-relationship-1618402214.jpg?crop=0.666015625xw:1xh;center,top&resize=1200:*" alt="">
+
+
+
+
+        </section>
+    </main>
+    <footer>
+        <p>Created by Ramaila Karabo| Tribute page for educational purposes</p>
+    </footer>
+</body>
+</html>
